@@ -186,9 +186,12 @@ body{
 .pro-item{
     overflow: hidden;
 }
+.eposi-img{
+    height:541px;
+}
 .pro-img{
     max-width: 100%;
-    min-height: 306px;
+    height: 306px;
 }
 .pro-img:hover{
     animation: pulse 0.3s forwards;
